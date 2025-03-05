@@ -1,0 +1,19 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.venv/
+venv/
+env/
+
+# Датасет (не храните большие файлы в репозитории)
+ESC-50-master/
+
+# Логи и временные файлы
+*.log
+*.pot
+*.pid
+*.egg-info/
+dist/
+build/
